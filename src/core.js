@@ -1,4 +1,4 @@
-import echartsLib from 'echarts/lib/echarts'
+import * as echartsLib from 'echarts/lib/echarts'
 import 'echarts/lib/component/tooltip'
 import 'echarts/lib/component/legend'
 import numerify from 'numerify'

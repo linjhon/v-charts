@@ -45,6 +45,8 @@
 
 > Chart components based on Vue2.x and Echarts
 
+Support Echarts 5.0
+
 ## Features
 - **Uniform data format:** Use an uniform data format that both convient for frontend and backend, and also easy to create and edit.
 - **Simplified configuration:** With simplified configuration items, complex requirements can be easily implemented.
@@ -57,7 +59,7 @@ Modern browsers and Internet Explorer 10+, include pc and mobile browser.
 ## Install
 
 ```
-npm i v-charts echarts -S
+npm i @linjhon/v-charts echarts -S
 ```
 
 ## Start

@@ -45,6 +45,8 @@
 
 > 基于 Vue2.x 封装的 Echarts 图表组件
 
+支持 Echarts 5.0
+
 ## 特性
 
 - **统一的数据格式：** 使用对前后端都友好的数据格式，方便生成和修改。
@@ -58,7 +60,7 @@
 ## 安装
 
 ```
-npm i v-charts echarts -S
+npm i @linjhon/v-charts echarts -S
 ```
 
 ## 快速上手

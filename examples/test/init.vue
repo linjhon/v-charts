@@ -17,7 +17,7 @@
 <script>
 import { VeLine } from '../../src/index.es'
 import { LINE_DATA } from './data'
-import echarts from 'echarts/lib/echarts'
+import * as echarts from 'echarts/lib/echarts'
 import 'zrender/lib/svg/svg'
 
 echarts.registerTheme('test', {
