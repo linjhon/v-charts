@@ -6,7 +6,7 @@ When using [echarts](http://echarts.baidu.com) to generate charts, we often need
 ### npm
 
 ```
-npm i v-charts echarts -S
+npm i @linjhon/v-charts echarts -S
 ```
 
 ### cdn
