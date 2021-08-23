@@ -5,13 +5,13 @@
 <h3 align="center">v-charts</h3>
 
 <p align="center">
-  <a href="https://travis-ci.org/ElemeFE/v-charts">
-    <img src="https://travis-ci.org/ElemeFE/v-charts.svg?branch=master" alt="Build Status">
+  <a href="https://travis-ci.org/linjhon/v-charts">
+    <img src="https://travis-ci.org/linjhon/v-charts.svg?branch=master" alt="Build Status">
   </a>
-  <a href="https://npmjs.org/package/v-charts">
+  <a href="https://npmjs.org/package/@linjhon/v-charts">
     <img src="http://img.shields.io/npm/dm/v-charts.svg" alt="NPM downloads">
   </a>
-  <a href="https://www.npmjs.org/package/v-charts">
+  <a href="https://www.npmjs.org/package/@linjhon/v-charts">
     <img src="https://img.shields.io/npm/v/v-charts.svg" alt="Npm package">
   </a>
   <a>
@@ -20,13 +20,13 @@
   <a>
     <img src="https://img.shields.io/badge/license-MIT-000000.svg" alt="License">
   </a>
-  <a href="https://gitter.im/ElemeFE/v-charts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">
-    <img src="https://badges.gitter.im/ElemeFE/v-charts.svg" alt="Join the chat">
+  <a href="https://gitter.im/linjhon/v-charts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">
+    <img src="https://badges.gitter.im/linjhon/v-charts.svg" alt="Join the chat">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://v-charts.js.org">
+  <a href="https://www.linjhon.com/v-charts">
     文档
   </a>
   <span> | </span>
@@ -97,7 +97,7 @@ export default {
 
 ## 更新日志
 
-每个版本的详细修改可以参考 [release notes](https://github.com/ElemeFE/v-charts/releases) 或者 [ChangeLog](./CHANGELOG_CN.md)。
+每个版本的详细修改可以参考 [release notes](https://github.com/linjhon/v-charts/releases) 或者 [ChangeLog](./CHANGELOG_CN.md)。
 
 ## 贡献
 

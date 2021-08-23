@@ -7,12 +7,12 @@ The growth of v-charts is inseparable from everyone's support. If you would like
 
 The core principle of v-charts is that developers can **simplify configuration items**. Based on this principle, v-charts has the following conventions:
 
-1. The data needs to use the form of metrics dimension. For details,
-please refer to [document](https://v-charts.js.org/#/en/data).
-2. The setting of metrics dimensions, data types, simplified configuration items,
-data aliases, etc. are achieved through the addition of attributes in settings.
-3. In addition to introducing the dependency (eg: line) of the corresponding
-module, the component tries not to introduce plug-in dependencies (eg: visualMap).
+1.  The data needs to use the form of metrics dimension. For details,
+    please refer to [document](https://www.linjhon.com/v-charts/#/en/data).
+2.  The setting of metrics dimensions, data types, simplified configuration items,
+    data aliases, etc. are achieved through the addition of attributes in settings.
+3.  In addition to introducing the dependency (eg: line) of the corresponding
+    module, the component tries not to introduce plug-in dependencies (eg: visualMap).
 
 ## Setting up the env
 
